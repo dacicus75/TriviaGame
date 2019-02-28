@@ -1,0 +1,82 @@
+body {
+    background: url("../images/main_home1_770x350.jpg");
+    text-align: center;
+}
+#container{
+    margin:2.5% auto;
+    background-color: rgba(245, 245, 240, 0.83);
+    width:960px;
+    height: 95%;
+    box-sizing: border-box;
+  }
+
+  #wrapper{
+  position: relative;
+  text-align: center;
+}
+
+ img{
+    height:250px;
+  }
+  button{
+    display: block;
+    width:50%;
+    height:20%;
+    margin: 0 auto;
+    border:none;
+    cursor: pointer;
+    position: relative;
+    background:transparent;
+    font-size: 42px;;
+  }
+#start{
+      color: #34495e;
+    font-size: 25px;
+    background-color: #c4cdd6;
+    border: 1px solid #34495e;
+    width: 35%; 
+    height: 15%;
+    display: block;
+    margin: auto;
+    }
+  
+  
+  h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    font-size: 6.0em;
+    font-weight: bold;
+    color:rgb(5, 30, 41);
+    padding-top: 2.5%;
+  }
+  
+  h2 {
+    text-align: left;
+    padding: 8px;
+    font-size: 14px;
+    color: #041525;
+  
+  }
+  #counter {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+    padding: 10px;	
+  }
+  
+  button:hover {
+    border:2px solid rgb(54, 54, 102);
+    background: rgb(28, 80, 87);
+  }
+  #wrapper {
+    border: none;
+    font-size: 14px;
+    background-color: #ecf0f1;
+    text-align: left;
+    margin: 5%;
+    border: 1px solid black;
+    display: inline;
+    font-size: 25px;
+    color: #051525;
+    font-family: 'Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    }
