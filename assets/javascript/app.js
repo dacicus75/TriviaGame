@@ -55,7 +55,7 @@ $(document).ready(function () {
             counter: 30,
             //local functions
             countdown: function () {
-                // created counter function that will 'start' below
+                // created counter function that will start below
                 triviaGame.counter--;
                 $('#counter').html(triviaGame.counter);
                 if (triviaGame.counter <= 0) {
